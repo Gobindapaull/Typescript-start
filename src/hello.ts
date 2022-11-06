@@ -1,2 +1,2 @@
 console.clear();
-console.log('test first typescript');
+console.log('test first typescript!');
