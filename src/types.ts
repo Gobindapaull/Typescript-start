@@ -3,8 +3,12 @@ let buy: boolean = false;
 // :boolean = type annotation
 
 // Number
-let price: number = 1500;
+let price: number = 1234;
 // :number = type annotation
+
+price = 2345;
+console.log(price);
+// console the second price value: 2345
 
 // String
 let Name: string = "Ethereum";
