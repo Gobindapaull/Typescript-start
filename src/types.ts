@@ -1,8 +1,10 @@
 // Boolean
 let buy: boolean = false;
+// :boolean = type annotation
 
 // Number
 let price: number = 1500;
+// :number = type annotation
 
 // String
 let Name: string = "Ethereum";
