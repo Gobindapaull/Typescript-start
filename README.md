@@ -14,6 +14,8 @@ rm tsconfig.json index.js
 
 tsc --init
 
+tsconfig.json > "target": "ES2020"
+
 tsc --watch index.ts
 
 node --watch index.js
