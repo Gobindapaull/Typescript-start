@@ -29,3 +29,9 @@ node -v = v23.6.0
 
 node index.ts = works fine
 
+# Install 
+
+- npm init -y
+- npm i -D typescript
+- npm i -g typescript
+
