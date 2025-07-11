@@ -1,13 +1,14 @@
 {
-  "name": "typescript",
+  "name": "day1",
   "version": "1.0.0",
-  "description": "Basic typescript",
+  "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "compile": "tsc index.ts --outDir dist",
+    "start": "node dist/index.js"
   },
   "keywords": [],
-  "author": "Paul",
-  "license": "ISC"
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
 }
-
